@@ -20,7 +20,7 @@ Therefore, making **FD reasonably interpretable** is one of the main tasks.
 ### T2. 识别非线性并交互式调整离散化方案
 
 The reason why **RDS** and **LTD** will cause disorders is that the **randomness of sample labels** will override the intrinsic pattern when the sample size is insufficient.  
-**RDS** 和 **LTD** 导致紊乱的原因在于，当样本数量不足时，**样本标签的随机性**会掩盖其内在模式。
+**Relative Data Spacity** 和 **Long Tail Distribution** 导致紊乱的原因在于，当样本数量不足时，**样本标签的随机性**会掩盖其内在模式。
 
 This randomness not only directly affects our observation but also the effect of **supervised discretization methods** [2].  
 这种随机性不仅会直接影响我们的观察结果，还会影响**有监督的离散化方法**的效果 [2]。
