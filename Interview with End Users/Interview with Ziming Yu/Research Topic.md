@@ -55,9 +55,7 @@ Therefore, data scientists are in dire need of a system that can:
 - **Structurally express** the lineage between them  
   **结构化地表达**这些实例之间的演化关系
 
-## Appendix 
-
-### Literatures 
+## Literatures 
 
 [1] Zachary C. Lipton, *The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery*, Queue, vol. 16, no. 3, pp. 31–57, May–June, 2018.
 
