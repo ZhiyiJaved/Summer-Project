@@ -20,7 +20,7 @@ Therefore, making **FD reasonably interpretable** is one of the main tasks.
 ### T2. 识别非线性并交互式调整离散化方案
 
 The reason why **Relative Data Spacity** and **Long Tail Distribution** will cause disorders is that the **randomness of sample labels** will override the intrinsic pattern when the sample size is insufficient.  
-**Relative Data Spacity** 和 **Long Tail Distribution** 导致紊乱的原因在于，当样本数量不足时，**样本标签的随机性**会掩盖其内在模式。
+**相对数据稀疏y** 和 **长尾分布** 导致紊乱的原因在于，当样本数量不足时，**样本标签的随机性**会掩盖其内在模式。
 
 This randomness not only directly affects our observation but also the effect of **supervised discretization methods** [2].  
 这种随机性不仅会直接影响我们的观察结果，还会影响**有监督的离散化方法**的效果 [2]。
@@ -36,8 +36,8 @@ At the same time, data scientists need to be able to **interfere directly** with
 ### T3. Building, Comparing, and Managing LR Instances Agilely  
 ### T3. 灵活地构建、比较和管理逻辑回归（LR）实例
 
-The complexity of **TFD** leads directly to the fact that data scientists must try several times before they find the **optimal discretization scheme**.  
-**特征离散化（TFD）**的复杂性意味着，数据科学家必须尝试多次才能找到**最优的离散化方案**。
+The complexity of **Transparent Feature Discretization** leads directly to the fact that data scientists must try several times before they find the **optimal discretization scheme**.  
+**特征离散化**的复杂性意味着，数据科学家必须尝试多次才能找到**最优的离散化方案**。
 
 This means data scientists inevitably **iterate** the process of instance building, comparison, and callback.  
 这意味着数据科学家不可避免地要**反复构建、比较和回调**多个模型实例。
