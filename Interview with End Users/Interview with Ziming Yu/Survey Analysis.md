@@ -20,7 +20,7 @@ Therefore, making **FD reasonably interpretable** is one of the main tasks.
 ### T2. 识别非线性并交互式调整离散化方案
 
 The reason why **Relative Data Spacity** and **Long Tail Distribution** will cause disorders is that the **randomness of sample labels** will override the intrinsic pattern when the sample size is insufficient.  
-**相对数据稀疏y** 和 **长尾分布** 导致紊乱的原因在于，当样本数量不足时，**样本标签的随机性**会掩盖其内在模式。
+**相对数据稀疏** 和 **长尾分布** 导致紊乱的原因在于，当样本数量不足时，**样本标签的随机性**会掩盖其内在模式。
 
 This randomness not only directly affects our observation but also the effect of **supervised discretization methods** [2].  
 这种随机性不仅会直接影响我们的观察结果，还会影响**有监督的离散化方法**的效果 [2]。
