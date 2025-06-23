@@ -1,5 +1,13 @@
 # Summer Project Plan
 
+## 🧠 [Tasks Analysis](Interview with End Users/Interview with Ziming Yu/Survey Analysis.md)
+
+1. Interpretability-aware feature selection  
+2. Identifying nonlinearity and adjusting discretization scheme interactively  
+3. Building, comparing, and managing LR instances agilely
+
+---
+
 ## 📚 Related Work
 
 ### ▶️ Interactive Feature Selection
@@ -10,14 +18,6 @@
 - Xuanwu Yue, Qiao Gu, Deyun Wang, Huamin Qu, and Yong Wang, “iQUANT: Interactive quantitative investment using sparse regression factors,” *Computer Graphics Forum*, vol. 40, no. 3, pp. 189–200, June, 2021.
 - Eric Horvitz, “Principles of mixed-initiative user interfaces,” in *Proceedings of the SIGCHI conference on Human Factors in Computing Systems*, 1999, pp. 159–166.
 - Zijie J. Wang et al., “CNN Explainer: Learning convolutional neural networks with interactive visualization,” *IEEE TVCG*, vol. 27, no. 2, pp. 1396–1406, February, 2021.
-
----
-
-## 🧠 Tasks Analysis
-
-1. Interpretability-aware feature selection  
-2. Identifying nonlinearity and adjusting discretization scheme interactively  
-3. Building, comparing, and managing LR instances agilely  
 
 ---
 
