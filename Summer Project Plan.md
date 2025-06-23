@@ -27,24 +27,38 @@ Based on early-stage user interviews and [survey results](Interview%20with%20End
 
 ---
 
-## 3. System Development Phase
+## 3. System Design Phase
+
+This stage focuses on finalizing the architectural and algorithmic design of the DiscretizOR system, alongside an in-depth review of relevant academic literature to ensure theoretical soundness and practical feasibility.
+
+- **Planned Duration**: 2 weeks  
+- **Timeline**:  
+  - **Commencement**: June 26, 2025  
+  - **Completion**: July 6, 2025  
+- **Key Activities**:  
+  - Refinement of system components and data flow architecture  
+  - Evaluation of alternative design strategies based on performance and scalability  
+  - Review of state-of-the-art literature in discretization algorithms and system integration frameworks
+
+
+## 4. System Development Phase
 
 This stage involves iterative implementation of the DiscretizOR system through close collaboration with an industry data science team.
 
 - **Planned Duration**: 3 weeks  
 - **Timeline**:
-  - **Commencement**: June 23, 2025  
-  - **Completion**: July 13, 2025  
+  - **Commencement**: July 7, 2025  
+  - **Completion**: July 27, 2025  
 - **Collaborative Partner**: Industrial research and development group
 
 ---
 
-## 4. Case Study and Documentation
+## 5. Case Study and Documentation
 
 Following system completion, a formal case study will be conducted using real-world data. Insights will be compiled into a final project report.
 
-- **Start Date**: July 14, 2025  
-- **End Date**: July 21, 2025  
+- **Start Date**: July 28, 2025  
+- **End Date**: Aug 4, 2025  
 - **Deliverable**: Final case study analysis and written report
 
 ---
