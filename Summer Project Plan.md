@@ -1,47 +1,56 @@
-# Summer Project Plan
+# Summer Research Project Plan
 
-## 🧠 [Tasks Analysis](Interview with End Users/Interview with Ziming Yu/Survey Analysis.md)
+## 1. Task Definition and Objectives
 
-1. Interpretability-aware feature selection  
-2. Identifying nonlinearity and adjusting discretization scheme interactively  
-3. Building, comparing, and managing LR instances agilely
+Based on early-stage user interviews and [survey results](Interview%20with%20End%20Users/Interview%20with%20Ziming%20Yu/Survey%20Analysis.md), the project aims to address the following core tasks:
 
----
-
-## 📚 Related Work
-
-### ▶️ Interactive Feature Selection
-- Jinwook Seo, and Ben Shneiderman, “A rank-by-feature framework for unsupervised multidimensional data exploration using low dimensional projections,” in *Information Visualization, IEEE Symposium*, 2004, pp. 65–72.
-- Sara Johansson, and Jimmy Johansson, “Interactive dimensionality reduction through user-defined combinations of quality metrics,” *IEEE Transactions on Visualization and Computer Graphics*, vol. 15, no. 6, pp. 993–1000, October, 2009.
-
-### ▶️ Visual Analysis for Machine Learning
-- Xuanwu Yue, Qiao Gu, Deyun Wang, Huamin Qu, and Yong Wang, “iQUANT: Interactive quantitative investment using sparse regression factors,” *Computer Graphics Forum*, vol. 40, no. 3, pp. 189–200, June, 2021.
-- Eric Horvitz, “Principles of mixed-initiative user interfaces,” in *Proceedings of the SIGCHI conference on Human Factors in Computing Systems*, 1999, pp. 159–166.
-- Zijie J. Wang et al., “CNN Explainer: Learning convolutional neural networks with interactive visualization,” *IEEE TVCG*, vol. 27, no. 2, pp. 1396–1406, February, 2021.
+1. Enable interpretability-aware feature selection in logistic regression workflows.  
+2. Identify and refine nonlinear patterns through interactive feature discretization schemes.  
+3. Support agile building, comparison, and management of logistic regression (LR) instances.
 
 ---
 
-## 🛠️ System Development (Collaboration with Industry Team)
+## 2. Review of Related Work
 
-- **Duration**: 3 weeks  
+### 2.1 Interactive Feature Selection
+
+- Seo, J., & Shneiderman, B. (2004). A rank-by-feature framework for unsupervised multidimensional data exploration using low-dimensional projections. *IEEE Symposium on Information Visualization*, 65–72.
+- Johansson, S., & Johansson, J. (2009). Interactive dimensionality reduction through user-defined combinations of quality metrics. *IEEE Transactions on Visualization and Computer Graphics*, 15(6), 993–1000.
+
+### 2.2 Visual Analysis for Machine Learning
+
+- Yue, X., Gu, Q., Wang, D., Qu, H., & Wang, Y. (2021). iQUANT: Interactive quantitative investment using sparse regression factors. *Computer Graphics Forum*, 40(3), 189–200.
+- Horvitz, E. (1999). Principles of mixed-initiative user interfaces. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 159–166.
+- Wang, Z. J., et al. (2021). CNN Explainer: Learning convolutional neural networks with interactive visualization. *IEEE Transactions on Visualization and Computer Graphics*, 27(2), 1396–1406.
+
+---
+
+## 3. System Development Phase
+
+This stage involves iterative implementation of the DiscretizOR system through close collaboration with an industry data science team.
+
+- **Planned Duration**: 3 weeks  
 - **Timeline**:
-  - **Start**: June 23, 2025  
-  - **End**: July 13, 2025  
-- **Collaboration**: Close cooperation with the industrial team during development
+  - **Commencement**: June 23, 2025  
+  - **Completion**: July 13, 2025  
+- **Collaborative Partner**: Industrial research and development group
 
 ---
 
-## 📝 Case Study and Report Writing
+## 4. Case Study and Documentation
 
-- **Start**: July 14, 2025  
-- **End**: ~July 21, 2025 (approximately 1 week)
+Following system completion, a formal case study will be conducted using real-world data. Insights will be compiled into a final project report.
+
+- **Start Date**: July 14, 2025  
+- **End Date**: July 21, 2025  
+- **Deliverable**: Final case study analysis and written report
 
 ---
 
-## 📅 Overall Schedule
+## 5. Timeline Overview
 
-| Stage                         | Start Date   | End Date     | Duration  |
-|------------------------------|--------------|--------------|-----------|
-| Related Work + Task Analysis | June 4,  2025| June 25, 2025| ~2 weeks  |
-| System Development           | June 23, 2025| July 13, 2025| 3 weeks   |
-| Case Study & Report Writing  | July 14, 2025| July 21, 2025| 1 week    |
+| Project Phase                | Start Date   | End Date     | Duration      |
+|-----------------------------|--------------|--------------|---------------|
+| Background Research & Tasks | June 4, 2025 | June 25, 2025| Approx. 2 weeks |
+| System Development          | June 23, 2025| July 13, 2025| 3 weeks       |
+| Case Study & Report Writing | July 14, 2025| July 21, 2025| 1 week        |
