@@ -12,6 +12,8 @@ Based on early-stage user interviews and [survey results](Interview%20with%20End
 
 ## 2. Review of Related Work
 
+![Draft Diagram](Resource/Draft.png)
+
 ### 2.1 Interactive Feature Selection
 
 - Seo, J., & Shneiderman, B. (2004). A rank-by-feature framework for unsupervised multidimensional data exploration using low-dimensional projections. *IEEE Symposium on Information Visualization*, 65–72.
@@ -49,8 +51,9 @@ Following system completion, a formal case study will be conducted using real-wo
 
 ## 5. Timeline Overview
 
-| Project Phase                | Start Date   | End Date     | Duration      |
-|-----------------------------|--------------|--------------|---------------|
-| Background Research & Tasks | June 4, 2025 | June 25, 2025| Approx. 2 weeks |
-| System Development          | June 23, 2025| July 13, 2025| 3 weeks       |
-| Case Study & Report Writing | July 14, 2025| July 21, 2025| 1 week        |
+| Project Phase                | Start Date   | End Date     | Duration        |
+|-----------------------------|--------------|--------------|-----------------|
+| Background Research & Tasks | June 4, 2025 | June 25, 2025| ~3 weeks        |
+| System Design               | June 26, 2025| July 6, 2025 | ~1.5 weeks      |
+| System Development          | July 7, 2025 | July 27, 2025| 3 weeks         |
+| Case Study & Report Writing | July 28, 2025| Aug 4, 2025  | 1 week          |
