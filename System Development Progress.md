@@ -4,7 +4,7 @@ I will document my design and development process, which will eventually become 
 ![Draft Diagram](Resource/Draft.png)
 ## System Development
 ### Evolution View
-In the last 2 weeks, I developed the `Eevolution View` of the System.
+In the last 2 weeks, I developed the `Evolution View` of the System.
 ![Evolution View](Resource/Revolution%20View.jpg)
 
 The view was designed to support users for interpretability feature selection and manage multiple instances generated from different 
