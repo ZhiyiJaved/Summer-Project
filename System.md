@@ -1,5 +1,6 @@
 # System Development Progress
 My development will be based on this design sketch, and I will keep updating my progress here.
+I will document my design and development process, which will eventually become part of my summer project report.
 ![Draft Diagram](Resource/Draft.png)
 ## System Development
 ### Revolution View
@@ -8,6 +9,8 @@ In the last 2 weeks, I developed the `Revolution View` of the System.
 The view was designed to support users for interpretability feature selection and manage multiple instances generated from different 
 input schemes. In working closely with data scientists, I found that many experienced data scientists resort to tree diagram to document 
 their instances. And after communication, I found that data scientists are more interested in the impact of current input schemes. In other words, they hope the differences in the performance of neighboring models can be emphasised.
+
+
 
 ## References
 
