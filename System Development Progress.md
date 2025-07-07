@@ -3,7 +3,7 @@ My development will be based on this design sketch, and I will keep updating my 
 I will document my design and development process, which will eventually become part of my summer project report.
 ![Draft Diagram](Resource/Draft.png)
 ## System Development
-### Revolution View
+### Evolution View
 In the last 2 weeks, I developed the `Eevolution View` of the System.
 ![Evolution View](Resource/Revolution%20View.jpg)
 
