@@ -1,7 +1,9 @@
 # System Development Progress
+My development will be based on this design sketch, and I will keep updating my progress here.
+![Draft Diagram](Resource/Draft.png)
 ## System Development
 ### Revolution View
-In the last 2 weeks, I developed this part of the System.
+In the last 2 weeks, I developed the `Revolution View` of the System.
 ![Revolution View](Resource/Revolution%20View.jpg)
 The view was designed to support users for interpretability feature selection and manage multiple instances generated from different 
 input schemes. In working closely with data scientists, I found that many experienced data scientists resort to tree diagram to document 
