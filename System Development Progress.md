@@ -15,6 +15,9 @@ their instances. And after communication, I found that data scientists are more 
 
 Composite graphic is visual encoding of LR instance. In addition to providing the function of selecting node, the text element obviously shows the name of the LR instance. The outer ring (a) is the core component of the composite graph, each segment of which represents a corresponding feature inputted. The size of it represents the relative contribution of the feature to the instance, reflecting the importance while the color depth represents the absolute strength of the feature's effect. We also use blue to encode the positive correlation between features and classification results, and red to express the negative. That is, if the feature corresponds to a segment is blue, the more likely the classification result is positive when the value of the feature is larger. And red expresses the opposite meaning. Further, when any LR instance that is not a parent node is visualized, the features that are added over the input scheme of parent will be highlighted in a magnified form. Through the design of this component, data scientists can visually observe the relative importance and effect strength structure of the features in each model instance. In addition, data scientists are able to very naturally select those features that have a significant impact on the classification result for further analysis.
 
+### Feature Assessment View
+
+
 ## References
 
 [1] Jundong Li, Kewei Cheng, Suhang Wang, Fred Morstatter, Robert P. Trevino, Jiliang Tang, and Huan Liu,  
